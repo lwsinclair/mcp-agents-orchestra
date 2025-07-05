@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/aviz85-mcp-agents-orchestra-badge.png)](https://mseep.ai/app/aviz85-mcp-agents-orchestra)
+
 # MCP Agent Orchestration System
 
 A Python implementation of a state-based agent orchestration system using the Model Context Protocol (MCP).
